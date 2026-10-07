@@ -1,0 +1,1658 @@
+window.STATS_DATA = {
+  "title": "Statistics Atlas｜統計學知識與方法選用 DAG",
+  "version": "1.0.0",
+  "date": "2026-10-07",
+  "knowledge": [
+    {
+      "domain": "Descriptive statistics｜描述統計",
+      "group": "Central tendency｜集中趨勢",
+      "terms": [
+        "Mean",
+        "Median",
+        "Mode"
+      ]
+    },
+    {
+      "domain": "Descriptive statistics｜描述統計",
+      "group": "Types of means｜平均數類型",
+      "terms": [
+        "Arithmetic mean",
+        "Cubic mean",
+        "Generalized / Power mean",
+        "Geometric mean",
+        "Harmonic mean",
+        "Heinz mean",
+        "Lehmer mean"
+      ]
+    },
+    {
+      "domain": "Descriptive statistics｜描述統計",
+      "group": "Position｜位置",
+      "terms": [
+        "Quantile",
+        "Percentile",
+        "Quartile"
+      ]
+    },
+    {
+      "domain": "Descriptive statistics｜描述統計",
+      "group": "Dispersion｜離散程度",
+      "terms": [
+        "Average absolute deviation",
+        "Coefficient of variation",
+        "Interquartile range",
+        "Range",
+        "Standard deviation",
+        "Variance"
+      ]
+    },
+    {
+      "domain": "Descriptive statistics｜描述統計",
+      "group": "Shape｜分布形狀",
+      "terms": [
+        "Skewness",
+        "Kurtosis"
+      ]
+    },
+    {
+      "domain": "Descriptive statistics｜描述統計",
+      "group": "Moments｜動差",
+      "terms": [
+        "Moments",
+        "L-moments"
+      ]
+    },
+    {
+      "domain": "Descriptive statistics｜描述統計",
+      "group": "Count data｜計數資料",
+      "terms": [
+        "Frequency",
+        "Proportion",
+        "Index of dispersion"
+      ]
+    },
+    {
+      "domain": "Descriptive statistics｜描述統計",
+      "group": "Summary tables｜摘要表",
+      "terms": [
+        "Frequency distribution",
+        "Grouped data",
+        "Contingency table"
+      ]
+    },
+    {
+      "domain": "Statistical graphics｜統計圖形",
+      "group": "Frequency and composition｜次數與組成",
+      "terms": [
+        "Bar chart",
+        "Pie chart"
+      ]
+    },
+    {
+      "domain": "Statistical graphics｜統計圖形",
+      "group": "Distribution｜資料分布",
+      "terms": [
+        "Histogram",
+        "Stem-and-leaf display",
+        "Box plot",
+        "Violin plot",
+        "Q–Q plot"
+      ]
+    },
+    {
+      "domain": "Statistical graphics｜統計圖形",
+      "group": "Association｜關聯",
+      "terms": [
+        "Scatter plot",
+        "Correlogram"
+      ]
+    },
+    {
+      "domain": "Statistical graphics｜統計圖形",
+      "group": "Multivariate displays｜多變量呈現",
+      "terms": [
+        "Biplot",
+        "Radar chart"
+      ]
+    },
+    {
+      "domain": "Statistical graphics｜統計圖形",
+      "group": "Time and process｜時間與流程",
+      "terms": [
+        "Run chart",
+        "Control chart"
+      ]
+    },
+    {
+      "domain": "Statistical graphics｜統計圖形",
+      "group": "Estimates and uncertainty｜估計與不確定性",
+      "terms": [
+        "Forest plot",
+        "Fan chart"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Populations and samples｜母群體與樣本",
+      "terms": [
+        "Population",
+        "Sample"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Study planning｜研究規劃",
+      "terms": [
+        "Effect size",
+        "Sample size determination",
+        "Statistical power",
+        "Optimal design"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Data completeness and replication｜完整性與重複",
+      "terms": [
+        "Missing data",
+        "Replication"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Survey methodology｜調查方法",
+      "terms": [
+        "Survey sampling",
+        "Opinion poll",
+        "Questionnaire"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Sampling designs｜抽樣設計",
+      "terms": [
+        "Simple random sampling",
+        "Systematic sampling",
+        "Stratified sampling",
+        "Cluster sampling"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Experimental principles｜實驗原則",
+      "terms": [
+        "Random assignment",
+        "Scientific control",
+        "Blocking"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Randomized experiments｜隨機實驗",
+      "terms": [
+        "Randomized experiment",
+        "Randomized controlled trial"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Factorial designs｜因子設計",
+      "terms": [
+        "Factorial experiment",
+        "Interaction"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Adaptive designs｜適應性設計",
+      "terms": [
+        "Adaptive clinical trial",
+        "Up-and-down designs",
+        "Stochastic approximation"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Observational studies｜觀察性研究",
+      "terms": [
+        "Cohort study",
+        "Case-control study",
+        "Cross-sectional study"
+      ]
+    },
+    {
+      "domain": "Data collection and study design｜資料蒐集與研究設計",
+      "group": "Quasi-experimental approaches｜準實驗方法",
+      "terms": [
+        "Quasi-experiment",
+        "Natural experiment"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Fundamental concepts｜基本概念",
+      "terms": [
+        "Population",
+        "Sample",
+        "Parameter",
+        "Statistic"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Probability distributions｜機率分布",
+      "terms": [
+        "Probability distribution",
+        "Multivariate distribution"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Sampling distributions｜抽樣分布",
+      "terms": [
+        "Sampling distribution",
+        "Order statistic",
+        "Standard error"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Limit theory｜極限理論",
+      "terms": [
+        "Law of large numbers",
+        "Central limit theorem",
+        "Asymptotics"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Empirical distributions｜經驗分布",
+      "terms": [
+        "Empirical distribution",
+        "Density estimation"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Statistical models｜統計模型",
+      "terms": [
+        "Statistical model",
+        "Model specification"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Parameter types｜參數類型",
+      "terms": [
+        "Location parameter",
+        "Scale parameter",
+        "Shape parameter"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Distribution families｜分布族",
+      "terms": [
+        "Parametric family",
+        "Location–scale family",
+        "Exponential family"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Likelihood｜概似",
+      "terms": [
+        "Likelihood function",
+        "Monotone likelihood ratio"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Properties of statistics｜統計量性質",
+      "terms": [
+        "Sufficiency",
+        "Completeness"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Statistical functionals｜統計泛函",
+      "terms": [
+        "Statistical functional",
+        "Plug-in principle"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Mathematical foundations｜數學基礎",
+      "terms": [
+        "Lp space"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Decision theory｜決策理論",
+      "terms": [
+        "Optimal decision",
+        "Loss function"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Performance and stability｜效能與穩定性",
+      "terms": [
+        "Efficiency",
+        "Robustness"
+      ]
+    },
+    {
+      "domain": "Statistical theory｜統計理論",
+      "group": "Distribution discrepancies｜分布差異",
+      "terms": [
+        "Statistical distance",
+        "Divergence"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Point estimation｜點估計",
+      "terms": [
+        "Estimating equations",
+        "Maximum likelihood",
+        "Method of moments",
+        "M-estimator",
+        "Minimum distance estimation",
+        "Plug-in estimation"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Unbiased estimation｜不偏估計",
+      "terms": [
+        "Mean-unbiased estimator",
+        "Median-unbiased estimator",
+        "Uniformly minimum-variance unbiased estimator"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Improving estimators｜改善估計量",
+      "terms": [
+        "Rao–Blackwellization",
+        "Lehmann–Scheffé theorem"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Interval estimation｜區間估計",
+      "terms": [
+        "Confidence interval",
+        "Likelihood-based interval",
+        "Prediction interval",
+        "Tolerance interval",
+        "Pivotal quantity"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Resampling｜重抽樣",
+      "terms": [
+        "Bootstrap",
+        "Jackknife"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Hypothesis testing｜假設檢定",
+      "terms": [
+        "Null hypothesis",
+        "Alternative hypothesis",
+        "One-tailed test",
+        "Two-tailed test",
+        "Type I error",
+        "Type II error",
+        "Significance level",
+        "p-value",
+        "Statistical power"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Optimal tests｜最適檢定",
+      "terms": [
+        "Uniformly most powerful test"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Permutation and randomization｜置換與隨機化",
+      "terms": [
+        "Permutation test",
+        "Randomization test"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Multiple testing｜多重檢定",
+      "terms": [
+        "Multiple comparisons",
+        "Multiple-testing adjustment"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "General parametric tests｜一般參數檢定",
+      "terms": [
+        "Likelihood-ratio test",
+        "Score / Lagrange multiplier test",
+        "Wald test"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Common tests｜常見檢定",
+      "terms": [
+        "Z-test",
+        "Student’s t-test",
+        "F-test"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Goodness of fit｜適合度",
+      "terms": [
+        "Chi-square goodness-of-fit test",
+        "G-test",
+        "Kolmogorov–Smirnov test",
+        "Anderson–Darling test"
+      ]
+    },
+    {
+      "domain": "Frequentist inference｜頻率學派推論",
+      "group": "Normality｜常態性",
+      "terms": [
+        "Shapiro–Wilk test",
+        "Lilliefors normality test",
+        "Jarque–Bera test"
+      ]
+    },
+    {
+      "domain": "Nonparametric and rank-based methods｜無母數與等級方法",
+      "group": "Sign methods｜符號方法",
+      "terms": [
+        "Sign test"
+      ]
+    },
+    {
+      "domain": "Nonparametric and rank-based methods｜無母數與等級方法",
+      "group": "Location estimation｜位置估計",
+      "terms": [
+        "Sample median",
+        "Hodges–Lehmann estimator"
+      ]
+    },
+    {
+      "domain": "Nonparametric and rank-based methods｜無母數與等級方法",
+      "group": "One-sample and paired comparisons｜單樣本與配對比較",
+      "terms": [
+        "Wilcoxon signed-rank test"
+      ]
+    },
+    {
+      "domain": "Nonparametric and rank-based methods｜無母數與等級方法",
+      "group": "Independent two-sample comparisons｜獨立雙樣本",
+      "terms": [
+        "Mann–Whitney U / Wilcoxon rank-sum test"
+      ]
+    },
+    {
+      "domain": "Nonparametric and rank-based methods｜無母數與等級方法",
+      "group": "Independent multiple groups｜獨立多組",
+      "terms": [
+        "Kruskal–Wallis test",
+        "Van der Waerden test"
+      ]
+    },
+    {
+      "domain": "Nonparametric and rank-based methods｜無母數與等級方法",
+      "group": "Related samples and blocks｜相關樣本與區集",
+      "terms": [
+        "Friedman test",
+        "Durbin test",
+        "Quade test"
+      ]
+    },
+    {
+      "domain": "Nonparametric and rank-based methods｜無母數與等級方法",
+      "group": "Ordered alternatives｜有序對立假設",
+      "terms": [
+        "Jonckheere–Terpstra test",
+        "Page’s test"
+      ]
+    },
+    {
+      "domain": "Nonparametric and rank-based methods｜無母數與等級方法",
+      "group": "Specialized methods｜專門方法",
+      "terms": [
+        "Median test / Mood’s median test",
+        "Mood’s scale test",
+        "Moses test",
+        "Moses extreme reactions test",
+        "Hollander test",
+        "Runs test",
+        "Wald–Wolfowitz runs test",
+        "Cox–Stuart test"
+      ]
+    },
+    {
+      "domain": "Bayesian inference｜貝氏推論",
+      "group": "Probability framework｜機率架構",
+      "terms": [
+        "Bayesian probability",
+        "Prior distribution",
+        "Posterior distribution"
+      ]
+    },
+    {
+      "domain": "Bayesian inference｜貝氏推論",
+      "group": "Point estimation｜點估計",
+      "terms": [
+        "Bayesian estimator",
+        "Maximum a posteriori estimator"
+      ]
+    },
+    {
+      "domain": "Bayesian inference｜貝氏推論",
+      "group": "Interval estimation｜區間估計",
+      "terms": [
+        "Credible interval"
+      ]
+    },
+    {
+      "domain": "Bayesian inference｜貝氏推論",
+      "group": "Model comparison｜模型比較",
+      "terms": [
+        "Bayes factor"
+      ]
+    },
+    {
+      "domain": "Correlation and association｜相關與關聯",
+      "group": "Linear correlation｜線性相關",
+      "terms": [
+        "Pearson correlation"
+      ]
+    },
+    {
+      "domain": "Correlation and association｜相關與關聯",
+      "group": "Rank correlation｜等級相關",
+      "terms": [
+        "Spearman’s rank correlation",
+        "Kendall’s tau"
+      ]
+    },
+    {
+      "domain": "Correlation and association｜相關與關聯",
+      "group": "Conditional association｜條件關聯",
+      "terms": [
+        "Partial correlation"
+      ]
+    },
+    {
+      "domain": "Correlation and association｜相關與關聯",
+      "group": "Interpretation｜關聯解釋",
+      "terms": [
+        "Confounding variable（干擾因素）"
+      ]
+    },
+    {
+      "domain": "Correlation and association｜相關與關聯",
+      "group": "Categorical association｜類別關聯",
+      "terms": [
+        "Phi coefficient",
+        "Cramér’s V",
+        "Contingency coefficient"
+      ]
+    },
+    {
+      "domain": "Correlation and association｜相關與關聯",
+      "group": "Agreement｜一致性",
+      "terms": [
+        "Cohen’s kappa",
+        "Weighted kappa",
+        "Kendall’s W",
+        "Intraclass correlation coefficient（ICC）",
+        "Bland–Altman analysis"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Basic concepts｜基本概念",
+      "terms": [
+        "Errors and residuals",
+        "Coefficient of determination",
+        "Interaction"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Variance assumptions｜變異數假設",
+      "terms": [
+        "Homoscedasticity",
+        "Heteroscedasticity"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Linear models｜線性模型",
+      "terms": [
+        "Simple linear regression",
+        "Multiple linear regression",
+        "General linear model"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Estimation｜估計方法",
+      "terms": [
+        "Ordinary least squares"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Bayesian models｜貝氏模型",
+      "terms": [
+        "Bayesian regression"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Nonlinear models｜非線性模型",
+      "terms": [
+        "Nonlinear regression"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Flexible regression｜彈性迴歸",
+      "terms": [
+        "Nonparametric regression",
+        "Semiparametric regression",
+        "Multivariate adaptive regression splines（MARS）"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Constrained and robust regression｜限制與穩健迴歸",
+      "terms": [
+        "Isotonic regression",
+        "Robust regression"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Correlated data｜相關資料",
+      "terms": [
+        "Mixed-effects models",
+        "Linear mixed-effects model",
+        "Generalized estimating equations（GEE）"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Simultaneous equations｜聯立方程式",
+      "terms": [
+        "Simultaneous equations models"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Generalized linear models｜廣義線性模型",
+      "terms": [
+        "Exponential family",
+        "Linear predictor",
+        "Link function",
+        "Generalized linear model"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Binary and categorical outcomes｜二元與類別結果",
+      "terms": [
+        "Binary logistic regression",
+        "Binomial regression",
+        "Multinomial logistic regression",
+        "Ordinal logistic regression"
+      ]
+    },
+    {
+      "domain": "Regression analysis｜迴歸分析",
+      "group": "Count outcomes｜計數結果",
+      "terms": [
+        "Poisson regression",
+        "Negative binomial regression"
+      ]
+    },
+    {
+      "domain": "Analysis of variance and covariance｜變異數與共變數分析",
+      "group": "Foundations｜基礎概念",
+      "terms": [
+        "Partition of variance",
+        "Degrees of freedom"
+      ]
+    },
+    {
+      "domain": "Analysis of variance and covariance｜變異數與共變數分析",
+      "group": "Single outcome｜單一結果",
+      "terms": [
+        "ANOVA",
+        "One-way ANOVA",
+        "Welch’s ANOVA",
+        "Factorial ANOVA",
+        "Repeated-measures ANOVA",
+        "ANCOVA"
+      ]
+    },
+    {
+      "domain": "Analysis of variance and covariance｜變異數與共變數分析",
+      "group": "Multiple outcomes｜多個結果",
+      "terms": [
+        "MANOVA",
+        "MANCOVA"
+      ]
+    },
+    {
+      "domain": "Model evaluation and selection｜模型評估與選擇",
+      "group": "Validation｜驗證",
+      "terms": [
+        "Regression validation",
+        "Cross-validation"
+      ]
+    },
+    {
+      "domain": "Model evaluation and selection｜模型評估與選擇",
+      "group": "Selection criteria｜選擇準則",
+      "terms": [
+        "Akaike information criterion（AIC）",
+        "Bayesian information criterion（BIC）"
+      ]
+    },
+    {
+      "domain": "Model evaluation and selection｜模型評估與選擇",
+      "group": "Nested models｜巢狀模型",
+      "terms": [
+        "Likelihood-ratio test"
+      ]
+    },
+    {
+      "domain": "Categorical data analysis｜類別資料分析",
+      "group": "Representation｜資料呈現",
+      "terms": [
+        "Contingency table"
+      ]
+    },
+    {
+      "domain": "Categorical data analysis｜類別資料分析",
+      "group": "Association and independence｜關聯與獨立性",
+      "terms": [
+        "Chi-square test of independence / homogeneity",
+        "G-test",
+        "Fisher’s exact test"
+      ]
+    },
+    {
+      "domain": "Categorical data analysis｜類別資料分析",
+      "group": "Paired binary data｜配對二元資料",
+      "terms": [
+        "McNemar’s test",
+        "Cochran’s Q test"
+      ]
+    },
+    {
+      "domain": "Categorical data analysis｜類別資料分析",
+      "group": "Paired multicategory data｜配對多類別資料",
+      "terms": [
+        "Stuart–Maxwell test",
+        "Bowker’s test"
+      ]
+    },
+    {
+      "domain": "Categorical data analysis｜類別資料分析",
+      "group": "Stratified analysis｜分層分析",
+      "terms": [
+        "Cochran–Mantel–Haenszel statistics"
+      ]
+    },
+    {
+      "domain": "Categorical data analysis｜類別資料分析",
+      "group": "Models｜模型",
+      "terms": [
+        "Log-linear model",
+        "Binary logistic regression"
+      ]
+    },
+    {
+      "domain": "Categorical data analysis｜類別資料分析",
+      "group": "Agreement｜一致性",
+      "terms": [
+        "Cohen’s kappa"
+      ]
+    },
+    {
+      "domain": "Categorical data analysis｜類別資料分析",
+      "group": "Post-hoc comparison｜事後比較",
+      "terms": [
+        "Marascuilo procedure"
+      ]
+    },
+    {
+      "domain": "Multivariate analysis｜多變量分析",
+      "group": "Distributions｜分布",
+      "terms": [
+        "Multivariate distribution",
+        "Multivariate normal distribution",
+        "Elliptical distributions"
+      ]
+    },
+    {
+      "domain": "Multivariate analysis｜多變量分析",
+      "group": "Regression and comparisons｜迴歸與比較",
+      "terms": [
+        "Multivariate multiple regression",
+        "MANOVA"
+      ]
+    },
+    {
+      "domain": "Multivariate analysis｜多變量分析",
+      "group": "Dimension reduction｜降維",
+      "terms": [
+        "Principal component analysis（PCA）"
+      ]
+    },
+    {
+      "domain": "Multivariate analysis｜多變量分析",
+      "group": "Latent structure｜潛在結構",
+      "terms": [
+        "Factor analysis",
+        "Exploratory factor analysis（EFA）",
+        "Confirmatory factor analysis（CFA）",
+        "Structural equation modeling（SEM）"
+      ]
+    },
+    {
+      "domain": "Multivariate analysis｜多變量分析",
+      "group": "Relationships between sets｜變項組間關聯",
+      "terms": [
+        "Canonical correlation analysis"
+      ]
+    },
+    {
+      "domain": "Multivariate analysis｜多變量分析",
+      "group": "Classification and clustering｜分類與分群",
+      "terms": [
+        "Discriminant analysis",
+        "Classification models",
+        "Cluster analysis"
+      ]
+    },
+    {
+      "domain": "Multivariate analysis｜多變量分析",
+      "group": "Graphical modeling｜圖形模型",
+      "terms": [
+        "Graphical model"
+      ]
+    },
+    {
+      "domain": "Multivariate analysis｜多變量分析",
+      "group": "Categorical structure｜類別結構",
+      "terms": [
+        "Correspondence analysis",
+        "Multiple correspondence analysis"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Components｜組成",
+      "terms": [
+        "Decomposition",
+        "Trend",
+        "Seasonality",
+        "Seasonal adjustment"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Properties｜性質",
+      "terms": [
+        "Stationarity",
+        "Structural break"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Smoothing｜平滑",
+      "terms": [
+        "Exponential smoothing"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Cross-series relationships｜序列間關係",
+      "terms": [
+        "Cointegration",
+        "Granger causality"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Unit-root tests｜單根檢定",
+      "terms": [
+        "Dickey–Fuller test"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Cointegration tests｜共整合檢定",
+      "terms": [
+        "Johansen test"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Serial-correlation diagnostics｜序列相關診斷",
+      "terms": [
+        "Ljung–Box Q-statistic",
+        "Durbin–Watson test",
+        "Breusch–Godfrey test"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Time-domain dependence｜時域相依性",
+      "terms": [
+        "Autocorrelation function（ACF）",
+        "Partial autocorrelation function（PACF）",
+        "Cross-correlation function（XCF）"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Univariate models｜單變量模型",
+      "terms": [
+        "ARMA model",
+        "ARIMA model",
+        "Box–Jenkins methodology"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Conditional variance｜條件變異數",
+      "terms": [
+        "Autoregressive conditional heteroskedasticity（ARCH）"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Multivariate models｜多變量模型",
+      "terms": [
+        "Vector autoregression（VAR）"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Frequency domain｜頻域",
+      "terms": [
+        "Spectral density estimation",
+        "Fourier analysis",
+        "Least-squares spectral analysis",
+        "Whittle likelihood"
+      ]
+    },
+    {
+      "domain": "Time-series analysis｜時間序列分析",
+      "group": "Time-frequency methods｜時頻方法",
+      "terms": [
+        "Wavelet analysis"
+      ]
+    },
+    {
+      "domain": "Survival analysis｜存活分析",
+      "group": "Functions｜函數",
+      "terms": [
+        "Survival function",
+        "Hazard function",
+        "Cumulative hazard function"
+      ]
+    },
+    {
+      "domain": "Survival analysis｜存活分析",
+      "group": "Survival estimation｜存活估計",
+      "terms": [
+        "Kaplan–Meier estimator"
+      ]
+    },
+    {
+      "domain": "Survival analysis｜存活分析",
+      "group": "Cumulative hazard｜累積風險",
+      "terms": [
+        "Nelson–Aalen estimator"
+      ]
+    },
+    {
+      "domain": "Survival analysis｜存活分析",
+      "group": "Regression｜迴歸",
+      "terms": [
+        "Cox proportional hazards model",
+        "Accelerated failure time（AFT）model"
+      ]
+    },
+    {
+      "domain": "Survival analysis｜存活分析",
+      "group": "Event-time modeling｜事件時間",
+      "terms": [
+        "First-hitting-time models"
+      ]
+    },
+    {
+      "domain": "Survival analysis｜存活分析",
+      "group": "Comparisons｜比較",
+      "terms": [
+        "Log-rank test"
+      ]
+    },
+    {
+      "domain": "Applications｜統計應用",
+      "group": "Biomedical and health sciences｜生物醫學與健康",
+      "terms": [
+        "Biostatistics",
+        "Medical statistics",
+        "Epidemiology",
+        "Clinical trials / studies",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "domain": "Applications｜統計應用",
+      "group": "Engineering and industry｜工程與產業",
+      "terms": [
+        "Engineering statistics",
+        "Methods engineering",
+        "Probabilistic design",
+        "Process / quality control",
+        "Reliability",
+        "System identification"
+      ]
+    },
+    {
+      "domain": "Applications｜統計應用",
+      "group": "Chemistry｜化學",
+      "terms": [
+        "Chemometrics"
+      ]
+    },
+    {
+      "domain": "Applications｜統計應用",
+      "group": "Society and population｜社會與人口",
+      "terms": [
+        "Social statistics",
+        "Demography",
+        "Population statistics",
+        "Crime statistics"
+      ]
+    },
+    {
+      "domain": "Applications｜統計應用",
+      "group": "Government｜政府",
+      "terms": [
+        "Census",
+        "Official statistics",
+        "National accounts"
+      ]
+    },
+    {
+      "domain": "Applications｜統計應用",
+      "group": "Economics and insurance｜經濟與保險",
+      "terms": [
+        "Econometrics",
+        "Actuarial science"
+      ]
+    },
+    {
+      "domain": "Applications｜統計應用",
+      "group": "Law｜法律",
+      "terms": [
+        "Jurimetrics"
+      ]
+    },
+    {
+      "domain": "Applications｜統計應用",
+      "group": "Psychology｜心理",
+      "terms": [
+        "Psychometrics"
+      ]
+    },
+    {
+      "domain": "Applications｜統計應用",
+      "group": "Spatial and environmental analysis｜空間與環境",
+      "terms": [
+        "Spatial statistics",
+        "Environmental statistics",
+        "Geostatistics",
+        "Kriging"
+      ]
+    },
+    {
+      "domain": "Applications｜統計應用",
+      "group": "Geographic tools｜地理工具",
+      "terms": [
+        "Geographic information system（GIS）",
+        "Cartography"
+      ]
+    },
+    {
+      "domain": "Source terms awaiting clarification｜原始術語待釐清",
+      "group": "Ambiguous abbreviation｜不明縮寫",
+      "terms": [
+        "Bootstrap（UV）：UV 未定義"
+      ]
+    },
+    {
+      "domain": "Source terms awaiting clarification｜原始術語待釐清",
+      "group": "Image terminology｜圖片術語",
+      "terms": [
+        "Tukey 快速檢定：須核對原書版本",
+        "Olmstead–Tukey test：須核對原書定義",
+        "Hollander test：原圖反應檢定名稱待核對",
+        "聯立係數／結合指數：須核對原書定義"
+      ]
+    }
+  ],
+  "decision": [
+    {
+      "domain": "名義資料 Nominal",
+      "group": "一組二元比例與指定值",
+      "terms": [
+        "Exact binomial test",
+        "One-sample proportion Z-test"
+      ]
+    },
+    {
+      "domain": "名義資料 Nominal",
+      "group": "一組多類別與指定分布",
+      "terms": [
+        "Chi-square goodness-of-fit test"
+      ]
+    },
+    {
+      "domain": "名義資料 Nominal",
+      "group": "兩個獨立組二元比例",
+      "terms": [
+        "Two-proportion Z-test",
+        "Chi-square test of independence / homogeneity",
+        "Fisher’s exact test"
+      ]
+    },
+    {
+      "domain": "名義資料 Nominal",
+      "group": "三個以上獨立組類別比例",
+      "terms": [
+        "Chi-square test of independence / homogeneity",
+        "Fisher’s exact test"
+      ]
+    },
+    {
+      "domain": "名義資料 Nominal",
+      "group": "兩次配對二元測量",
+      "terms": [
+        "McNemar’s test"
+      ]
+    },
+    {
+      "domain": "名義資料 Nominal",
+      "group": "三次以上相依二元測量",
+      "terms": [
+        "Cochran’s Q test"
+      ]
+    },
+    {
+      "domain": "名義資料 Nominal",
+      "group": "配對多類別結果",
+      "terms": [
+        "Stuart–Maxwell test",
+        "Bowker’s test"
+      ]
+    },
+    {
+      "domain": "序位與等級 Ordinal / Rank",
+      "group": "一組與指定位置比較",
+      "terms": [
+        "Sign test",
+        "Wilcoxon signed-rank test"
+      ]
+    },
+    {
+      "domain": "序位與等級 Ordinal / Rank",
+      "group": "兩個獨立組",
+      "terms": [
+        "Mann–Whitney U / Wilcoxon rank-sum test"
+      ]
+    },
+    {
+      "domain": "序位與等級 Ordinal / Rank",
+      "group": "三個以上獨立組",
+      "terms": [
+        "Kruskal–Wallis test",
+        "Van der Waerden test"
+      ]
+    },
+    {
+      "domain": "序位與等級 Ordinal / Rank",
+      "group": "兩組配對",
+      "terms": [
+        "Sign test",
+        "Wilcoxon signed-rank test"
+      ]
+    },
+    {
+      "domain": "序位與等級 Ordinal / Rank",
+      "group": "三組以上相依或重複測量",
+      "terms": [
+        "Friedman test"
+      ]
+    },
+    {
+      "domain": "序位與等級 Ordinal / Rank",
+      "group": "獨立組有事先指定順序",
+      "terms": [
+        "Jonckheere–Terpstra test"
+      ]
+    },
+    {
+      "domain": "序位與等級 Ordinal / Rank",
+      "group": "相依條件有事先指定順序",
+      "terms": [
+        "Page’s test"
+      ]
+    },
+    {
+      "domain": "量性資料 Quantitative",
+      "group": "一組平均數與指定值",
+      "terms": [
+        "One-sample t-test",
+        "Z-test"
+      ]
+    },
+    {
+      "domain": "量性資料 Quantitative",
+      "group": "兩個獨立組平均數",
+      "terms": [
+        "Independent-samples t-test",
+        "Welch’s t-test"
+      ]
+    },
+    {
+      "domain": "量性資料 Quantitative",
+      "group": "三個以上獨立組平均數",
+      "terms": [
+        "One-way ANOVA",
+        "Welch’s ANOVA"
+      ]
+    },
+    {
+      "domain": "量性資料 Quantitative",
+      "group": "兩組配對平均數",
+      "terms": [
+        "Paired-samples t-test"
+      ]
+    },
+    {
+      "domain": "量性資料 Quantitative",
+      "group": "三次以上重複測量",
+      "terms": [
+        "Repeated-measures ANOVA",
+        "Linear mixed-effects model"
+      ]
+    },
+    {
+      "domain": "量性資料 Quantitative",
+      "group": "兩個以上分組因子",
+      "terms": [
+        "Factorial ANOVA",
+        "Interaction"
+      ]
+    },
+    {
+      "domain": "量性資料 Quantitative",
+      "group": "組間比較並調整共變項",
+      "terms": [
+        "ANCOVA",
+        "Multiple linear regression"
+      ]
+    },
+    {
+      "domain": "量性資料 Quantitative",
+      "group": "同時比較多個量性依變項",
+      "terms": [
+        "MANOVA",
+        "MANCOVA"
+      ]
+    },
+    {
+      "domain": "變異數 Variance",
+      "group": "一組變異數與指定值",
+      "terms": [
+        "Chi-square test for a variance"
+      ]
+    },
+    {
+      "domain": "變異數 Variance",
+      "group": "兩個獨立組變異數",
+      "terms": [
+        "F-test",
+        "Levene’s test"
+      ]
+    },
+    {
+      "domain": "變異數 Variance",
+      "group": "多個獨立組變異數",
+      "terms": [
+        "Levene’s test",
+        "Brown–Forsythe test",
+        "Bartlett’s test"
+      ]
+    },
+    {
+      "domain": "關聯與一致性 Association",
+      "group": "兩個量性變項線性相關",
+      "terms": [
+        "Pearson correlation"
+      ]
+    },
+    {
+      "domain": "關聯與一致性 Association",
+      "group": "序位或單調關係",
+      "terms": [
+        "Spearman’s rank correlation",
+        "Kendall’s tau"
+      ]
+    },
+    {
+      "domain": "關聯與一致性 Association",
+      "group": "控制其他變項後的相關",
+      "terms": [
+        "Partial correlation"
+      ]
+    },
+    {
+      "domain": "關聯與一致性 Association",
+      "group": "兩個名義變項關聯",
+      "terms": [
+        "Chi-square test of independence / homogeneity",
+        "Phi coefficient",
+        "Cramér’s V"
+      ]
+    },
+    {
+      "domain": "關聯與一致性 Association",
+      "group": "類別評分一致性",
+      "terms": [
+        "Cohen’s kappa",
+        "Weighted kappa"
+      ]
+    },
+    {
+      "domain": "關聯與一致性 Association",
+      "group": "多位評分者排序一致性",
+      "terms": [
+        "Kendall’s W"
+      ]
+    },
+    {
+      "domain": "關聯與一致性 Association",
+      "group": "量性量測一致性或信度",
+      "terms": [
+        "Intraclass correlation coefficient（ICC）",
+        "Bland–Altman analysis"
+      ]
+    },
+    {
+      "domain": "解釋與預測 Regression",
+      "group": "一個量性依變項、一個自變項",
+      "terms": [
+        "Simple linear regression"
+      ]
+    },
+    {
+      "domain": "解釋與預測 Regression",
+      "group": "一個量性依變項、多個自變項",
+      "terms": [
+        "Multiple linear regression"
+      ]
+    },
+    {
+      "domain": "解釋與預測 Regression",
+      "group": "二元依變項",
+      "terms": [
+        "Binary logistic regression"
+      ]
+    },
+    {
+      "domain": "解釋與預測 Regression",
+      "group": "無序多類別依變項",
+      "terms": [
+        "Multinomial logistic regression"
+      ]
+    },
+    {
+      "domain": "解釋與預測 Regression",
+      "group": "有序類別依變項",
+      "terms": [
+        "Ordinal logistic regression"
+      ]
+    },
+    {
+      "domain": "解釋與預測 Regression",
+      "group": "計數結果",
+      "terms": [
+        "Poisson regression",
+        "Negative binomial regression"
+      ]
+    },
+    {
+      "domain": "解釋與預測 Regression",
+      "group": "事件時間與設限",
+      "terms": [
+        "Cox proportional hazards model",
+        "Accelerated failure time（AFT）model"
+      ]
+    },
+    {
+      "domain": "解釋與預測 Regression",
+      "group": "重複測量或群聚",
+      "terms": [
+        "Generalized estimating equations（GEE）",
+        "Mixed-effects models"
+      ]
+    },
+    {
+      "domain": "解釋與預測 Regression",
+      "group": "多個量性依變項",
+      "terms": [
+        "Multivariate multiple regression"
+      ]
+    },
+    {
+      "domain": "解釋與預測 Regression",
+      "group": "已知群組分類",
+      "terms": [
+        "Discriminant analysis",
+        "Classification models"
+      ]
+    },
+    {
+      "domain": "結構探索 Structure",
+      "group": "濃縮成較少成分",
+      "terms": [
+        "Principal component analysis（PCA）"
+      ]
+    },
+    {
+      "domain": "結構探索 Structure",
+      "group": "探索潛在構念",
+      "terms": [
+        "Exploratory factor analysis（EFA）"
+      ]
+    },
+    {
+      "domain": "結構探索 Structure",
+      "group": "驗證事先提出的因素架構",
+      "terms": [
+        "Confirmatory factor analysis（CFA）"
+      ]
+    },
+    {
+      "domain": "結構探索 Structure",
+      "group": "個體或變項分群",
+      "terms": [
+        "Cluster analysis"
+      ]
+    },
+    {
+      "domain": "結構探索 Structure",
+      "group": "兩組量性變項關係",
+      "terms": [
+        "Canonical correlation analysis"
+      ]
+    },
+    {
+      "domain": "結構探索 Structure",
+      "group": "類別資料結構",
+      "terms": [
+        "Correspondence analysis",
+        "Multiple correspondence analysis"
+      ]
+    },
+    {
+      "domain": "結構探索 Structure",
+      "group": "變項相依結構",
+      "terms": [
+        "Graphical model"
+      ]
+    },
+    {
+      "domain": "結構探索 Structure",
+      "group": "測量與路徑結構",
+      "terms": [
+        "Structural equation modeling（SEM）"
+      ]
+    },
+    {
+      "domain": "專門用途 Specialized",
+      "group": "序列隨機性",
+      "terms": [
+        "Runs test",
+        "Wald–Wolfowitz runs test"
+      ]
+    },
+    {
+      "domain": "專門用途 Specialized",
+      "group": "單調趨勢",
+      "terms": [
+        "Cox–Stuart test"
+      ]
+    },
+    {
+      "domain": "專門用途 Specialized",
+      "group": "分布比較或適合度",
+      "terms": [
+        "Kolmogorov–Smirnov test",
+        "Anderson–Darling test"
+      ]
+    },
+    {
+      "domain": "專門用途 Specialized",
+      "group": "常態性",
+      "terms": [
+        "Shapiro–Wilk test",
+        "Lilliefors normality test",
+        "Jarque–Bera test"
+      ]
+    },
+    {
+      "domain": "專門用途 Specialized",
+      "group": "組間中位數",
+      "terms": [
+        "Median test / Mood’s median test"
+      ]
+    },
+    {
+      "domain": "專門用途 Specialized",
+      "group": "離散程度",
+      "terms": [
+        "Mood’s scale test",
+        "Moses test"
+      ]
+    },
+    {
+      "domain": "專門用途 Specialized",
+      "group": "不完整區集等級比較",
+      "terms": [
+        "Durbin test"
+      ]
+    },
+    {
+      "domain": "專門用途 Specialized",
+      "group": "隨機化完整區集",
+      "terms": [
+        "Quade test"
+      ]
+    },
+    {
+      "domain": "專門用途 Specialized",
+      "group": "多組比例事後比較",
+      "terms": [
+        "Marascuilo procedure"
+      ]
+    }
+  ],
+  "notes": {
+    "Wilcoxon signed-rank test": "須能合理比較差值的大小，常用位置解釋需要差值分布對稱；不是所有序位資料都適用。",
+    "Mann–Whitney U / Wilcoxon rank-sum test": "一般檢驗分布／相對位置差異。只有在適當的同形位置位移假設下，才可直接解釋為中位數差異。",
+    "Kruskal–Wallis test": "獨立組等級比較；解釋為中位數差異須有額外分布假設。",
+    "Friedman test": "相依樣本或完整區集的等級檢定，不等同所有形式的二因子無母數 ANOVA。",
+    "Fisher’s exact test": "多列多欄表可用擴充精確檢定；計算量與軟體支援需確認。",
+    "Z-test": "依問題確認已知母群體變異數或大樣本近似等條件。",
+    "F-test": "若用於兩組變異數比較，對常態性偏離敏感；與 ANOVA 的 F 統計量用途不同。",
+    "Stuart–Maxwell test": "檢驗配對多類別資料的邊際同質性。",
+    "Bowker’s test": "檢驗配對多類別表的對稱性，與邊際同質性不是同一假設。",
+    "Nelson–Aalen estimator": "估計累積風險函數，而非直接估計瞬時風險函數。",
+    "Kaplan–Meier estimator": "又稱 product-limit estimator，用於存活函數估計。",
+    "Granger causality": "表示加入另一序列的過去資訊有助預測；不直接證明介入意義下的因果。",
+    "General linear model": "一般線性模型。請與 generalized linear model（廣義線性模型）區分。",
+    "Generalized linear model": "廣義線性模型，由結果分布、線性預測子與連結函數組成。",
+    "Multiple linear regression": "多個自變項、一個量性依變項；與多個依變項的 multivariate regression 不同。",
+    "Kendall’s W": "多位評分者對同一批對象排序的一致性指標，不是一般多變量探索分析。",
+    "Bland–Altman analysis": "評估量測方法間的差異與一致性界限；相關很高不等於一致性良好。",
+    "Cox proportional hazards model": "比例風險模型須評估比例風險假設及設限機制。",
+    "Central limit theorem": "在適當條件下描述標準化總和或平均數的極限分布，不是原始資料常態性的保證。",
+    "Percentile": "位置指標；四分位距等分位數差距才屬於離散程度。",
+    "Hollander test": "保留原始清單術語；具體反應檢定的完整名稱與適用條件須核對原書，未納入自動選用路徑。",
+    "Heinz mean": "保留原始清單中的特殊平均數；不是一般生物統計常用摘要。"
+  },
+  "sources": [
+    {
+      "title": "使用者提供的完整 Statistics 清單與兩張統計方法分類圖片",
+      "url": ""
+    },
+    {
+      "title": "NIST：Percentiles",
+      "url": "https://itl.nist.gov/div898/handbook/prc/section2/prc262.htm"
+    },
+    {
+      "title": "OpenStax：Central limit theorem",
+      "url": "https://openstax.org/books/statistics/pages/7-3-using-the-central-limit-theorem"
+    },
+    {
+      "title": "R mice：Nelson–Aalen estimator",
+      "url": "https://search.r-project.org/CRAN/refmans/mice/html/nelsonaalen.html"
+    }
+  ]
+};
